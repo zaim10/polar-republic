@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="SVGRoot"
+   version="1.1"
+   viewBox="0 0 1000 500"
+   height="500px"
+   width="1000px">
+  <defs
+     id="defs146">
+    <marker
+       style="overflow:visible"
+       id="marker6117"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.8) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path6115" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DotL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.8) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1;fill:#ffffff;fill-opacity:0"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path5786" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata149">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <rect
+       y="0"
+       x="0"
+       height="250"
+       width="1000"
+       id="rect5718"
+       style="fill:#5555ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="matrix(0.77192278,0,0,0.77192278,-391.77748,-171.62419)"
+       id="g6212">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.2642355;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:14.52847073, 7.26423536;stroke-dashoffset:50;stroke-opacity:1"
+         d="m 771.87749,333.49721 c 10.94298,65.26395 -97.86233,172.72858 -97.86233,172.72858 0,0 -111.22473,-105.78989 -100.65617,-171.11551 7.11679,-43.98974 56.09459,-88.0841 100.65617,-87.97757 43.50704,0.10403 90.66778,43.45632 97.86233,86.3645 z"
+         id="path6203" />
+      <circle
+         style="fill:#5555ff;fill-opacity:1;stroke:none;stroke-width:8.06451607;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:16.12903226, 8.06451613;stroke-dashoffset:50;stroke-opacity:1"
+         id="path6208"
+         cx="673.35425"
+         cy="334.26666"
+         r="50" />
+    </g>
+  </g>
+</svg>
